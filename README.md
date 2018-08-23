@@ -85,7 +85,7 @@ $ git clone https://github.com/exponentian/web-development-beginner-guide-react-
 $ npm install
 ```
 
-3. Add your REST API URL in config.js
+3. Add your REST API URL in ./src/config.js
 
 4. Start
 
