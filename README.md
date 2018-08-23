@@ -1,16 +1,16 @@
 # Beginner's Guide to Web Development
 ## Example: Local Library
-#### Technologies: Node.js, React, Redux and MongoDB
-##### Author: Ho Seok (Brandon) Oh
+### Technologies: Node.js, React, Redux and MongoDB
+#### Author: Ho Seok (Brandon) Oh
 
 
 ## [Demo](https://local-library-redux-hoseokoh.herokuapp.com/)
 
-##### Preface
+#### Preface
 > I am a sofrware developer, and I’ve been developing web applications with multiple frameworks. Recently, I learn Redux which is an open-source Javascript library for managing data state. It is widely used with React to develop Front-end web applications. I’ve decided to make this toy example from scratch to teach myself and to share cutting-edge technology with people who are eager to learn Node.js, React and Redux. Actually, I learn those web technologies from online resources while working on a project. To be honest, my code is not enough to cover all topics. It may help beginners to understand data mannagement or data flow which is super important in web development. I hope everyone enjoys my tutorial, and please focus more on data flow.
 
 
-##### Objectives
+#### Objectives
 - Understanding of web development life cycle
 - Data model schema design for REST API
 - Web authetication and authorization methods
@@ -52,18 +52,18 @@ Target audiences:
 > I highly recommend reading online resources below. Also, I start off this example with [create-react-app](https://github.com/facebook/create-react-app) supported by Facebook.
 
 
-##### Resources:
+#### Resources:
 - [Redux](https://redux.js.org/)
 - [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
 
 
-##### Important keywords:
+#### Important keywords:
 - Dispatch, Action, Reducer, Store
 - PrivateRouter, PublicRouter
 - Authorization - Bearer Token
 
 
-##### Packages installed
+#### Packages installed
 - react-redux
 - react-router-dom
 - redux
@@ -71,7 +71,7 @@ Target audiences:
 - prop-types
 
 
-##### To start
+#### To start
 
 1. Download or clone
 
