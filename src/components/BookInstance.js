@@ -6,7 +6,6 @@ import { Sep } from '../utils';
 
 class BookInstance extends React.Component {
   handleCheckout = () => {
-    this.setState({ clicked: true });
     this.props.handleCheckout(this.props._id);
   };
 
